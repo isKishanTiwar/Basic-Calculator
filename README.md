@@ -16,7 +16,7 @@ This project is a responsive calculator application built using HTML, CSS, and J
 3. <u>Dynamic Theming</u><br>
 *The application includes a theme toggle functionality that allows users to switch between light and dark modes. This feature enhances user experience by adapting to different environmental lighting conditions.<br>
 *The theme toggle is implemented using JavaScript and applies changes to the entire application's color scheme, providing a consistent look and feel.<br>
-<u>Technology Stack</u>
+<u>Technology Stack</u><br>
 *HTML5: Used for structuring the content and layout of the application.<br>
 *CSS3: Employed for styling, including the responsive layout, button design, and dynamic theme colors.<br>
 *JavaScript: Handles the core logic for calculator operations, theme toggling, and user interaction.<br>
